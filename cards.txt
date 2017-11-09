@@ -1,0 +1,7 @@
+{"type":"Basic","front":"Name the World's largest ocean ?","back":"Pacific"}
+{"type":"Basic","front":"World's biggest island ?","back":"Greenland"}
+{"type":"Basic","front":"In which Country did the Arabic Numerals Originate ?","back":"India"}
+{"type":"Basic","front":"Seventh planet from the Sun ?","back":"Uranus"}
+{"type":"Basic","front":"Only American state that begins with letter 'P'","back":"Pennsylvania"}
+
+{"type":"Basic","front":"Largest State in USA","back":"Texas"}
