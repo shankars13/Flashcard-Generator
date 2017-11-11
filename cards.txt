@@ -1,7 +1,15 @@
-{"type":"Basic","front":"Name the World's largest ocean ?","back":"Pacific"}
 {"type":"Basic","front":"World's biggest island ?","back":"Greenland"}
 {"type":"Basic","front":"In which Country did the Arabic Numerals Originate ?","back":"India"}
 {"type":"Basic","front":"Seventh planet from the Sun ?","back":"Uranus"}
 {"type":"Basic","front":"Only American state that begins with letter 'P'","back":"Pennsylvania"}
-
 {"type":"Basic","front":"Largest State in USA","back":"Texas"}
+{"type":"Basic","front":"Name the World's largest ocean ?","back":"Pacific"}
+{"type":"Cloze","text":"Barack Obama is the 44th President of United States","cloze":"Barack Obama"}
+{"type":"Cloze","text":"The largest fish in the ocean is Whale Shark","cloze":"Whale Shark"}
+{"type":"Cloze","text":"Jupiter is the largest planet in the solar system","cloze":"Jupiter"}
+{"type":"Basic","front":"Which planet is closest to Earth","back":"Venus"}
+{"type":"Cloze","text":"Square root of 256 is 16","cloze":"16"}
+{"type":"Cloze","text":"Lima is the capital city of Peru","cloze":"Peru"}
+{"type":"Cloze","text":"The femur is the largest bone in human body","cloze":"femur"}
+{"type":"Basic","front":"Largest 2 digit prime number ?","back":"97"}
+{"type":"Cloze","text":"H is the chemical symbol of Hydrogen","cloze":"H"}
