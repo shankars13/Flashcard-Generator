@@ -6,6 +6,7 @@ Create the backend for a basic flashcard application. The backend will essential
 2. Cloze flashcards, which present partial text ("... was the first president of the United States."), and the full text when the user requests it ("George Washington was the first president of the United States.")
 
 Commands to run the Flashcard Generator
+
 node main.js
 Lets the user create, view, delete the flashcards for Basic/Cloze card.
 
@@ -13,4 +14,4 @@ node playBasic.js
 User can play the Basic Flascard. At the end the score is displayed.
 
 node playCloze.js 
-User can play the Basic Flascard. At the end the score is displayed.
+User can play the Cloze Flascard. At the end the score is displayed.

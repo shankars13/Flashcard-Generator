@@ -1,3 +1,6 @@
+
+//Constructor for creating ClozeCard. Prototypes used to attach methods.
+
 var ClozeCard = function (text, cloze) {
 	if (this instanceof ClozeCard) {
 		this.text=text;
@@ -16,6 +19,8 @@ ClozeCard.prototype.clozeText = function() {
 	return (this.cloze);
 }
 
+
+//Remove 'cloze' text from the fullText field and return ...... to hide the answer
 ClozeCard.prototype.partialText = function() {
 
 	var txtFound = this.text.toLowerCase().search(this.cloze.toLowerCase());

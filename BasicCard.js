@@ -1,3 +1,6 @@
+//BasicCard constructor with two fields. Methods within the Constructor to display front and back of the flashcard.
+
+
 var BasicCard = function (front,back) {
 	if (this instanceof BasicCard) {
 		this.front=front;
