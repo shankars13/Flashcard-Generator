@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Create the backend for a basic flashcard application. The backend will essentially constitute an API that allows users to create two types of flashcards.",
+  "main": "main.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankars13/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankars13/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/shankars13/Flashcard-Generator#readme"
+}
